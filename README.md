@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Wolfe
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: it/that
-- ⚡ Fun fact: ...
+- Hi, I’m Wolfe
+- I’m interested in programming languages
+- I’m a Python Programmer
+- I'm a SQL programmer
+- I’m looking to collaborate on ...
+- Fun fact: ...
 
 <!---
 wolfeskitchen/wolfeskitchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
