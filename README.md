@@ -3,7 +3,7 @@
 - I’m a Python Programmer
 - I'm a SQL programmer
 - I’m looking to collaborate on ...
-- Fun fact: ...
+- Fun fact: I've been sober my whole life
 
 <!---
 wolfeskitchen/wolfeskitchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
